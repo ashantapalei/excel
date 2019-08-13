@@ -7,8 +7,3 @@
     #modifyEnvironment: False # Optional
     #workingFolder: # Optional
     #failOnStandardError: false # Optional
-# Path File
-# Run the bat file to open the excel
-- task: vbs.bat
-  inputs:
-  filename: vbs.bat
